@@ -9,18 +9,17 @@
 - 🔬 Data Science | Machine Learning | NLP | Deep Learning
 - 📊 Visualization & Dashboards (Power BI, Tableau, Matplotlib)
 - 📁 Automated Reporting & Data Pipelines
-- 📡 Signal Processing | Time Series | Socio-economic Forecasting
 
 ---
 
 ## 🛠 Skills & Tools
 
 **Languages:** Python, R, SQL, Java, HTML/CSS  
-**Frameworks:** Scikit-learn, TensorFlow, Keras, PyTorch, FastAPI  
-**Data Tools:** Power BI, Tableau, Pandas, NumPy, PySpark  
-**Workflow:** Git, GitHub, Agile, AWS, Jupyter
+**Frameworks:** Scikit-learn, TensorFlow, Keras, PyTorch, FastAPI, PySpark  
+**Power Tools:** PowerBI, Power Pages, Power Automate
+**Other Skills:** Tableau, AWS, Hadoop, Git, Agile, Machine Learning, MLOps, NLP, Deep Learning, LLM, GenAI
 
 ---
 
 ## 📫 Let's Connect!
-[LinkedIn](https://www.linkedin.com/in/geetharajamanickam) | [Portfolio](https://geeta02.github.io/GeethaRajamanickam.github.io/)
+[Email](geetharajamanickam1@gmail.com) | [LinkedIn](https://www.linkedin.com/in/geetharajamanickam) | [Portfolio](https://geeta02.github.io/GeethaRajamanickam.github.io/)
