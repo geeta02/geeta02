@@ -16,9 +16,7 @@
 
 **Languages:** Python, R, SQL, Java, HTML/CSS  
 **Frameworks:** Scikit-learn, TensorFlow, Keras, PyTorch, FastAPI, PySpark  
-**Power Tools:** PowerBI, Power Pages, Power Automate
-
-**Other Skills:** Tableau, AWS, Hadoop, Git, Agile, Machine Learning, MLOps, NLP, Deep Learning, LLM, GenAI
+**Other Skills:** PowerBI, Tableau, AWS, Hadoop, Git, Agile, Machine Learning, MLOps, NLP, Deep Learning, LLM, GenAI
 
 ---
 
